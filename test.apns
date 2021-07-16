@@ -1,0 +1,8 @@
+{ 
+    "aps":{
+        "alert":"PushNotificationsTest",
+        "sound":"default",
+        "badge":1
+    }
+}
+
